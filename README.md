@@ -28,3 +28,7 @@ docker-compose ps
 -------------------------------------------------------------------------------------------------
 docker-for-expressjs_node_1   yarn start   Up      0.0.0.0:3000->3000/tcp, 0.0.0.0:9229->9229/tcp
 ```
+
+The app run in http://localhost:3000, and the Node debug is expose in http://localhost:9229
+
+Try and fun!!!
